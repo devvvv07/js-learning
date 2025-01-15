@@ -1,0 +1,1 @@
+console.log("Hello people I am trying out Node JS")
